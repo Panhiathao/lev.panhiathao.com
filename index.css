@@ -1,0 +1,9 @@
+html {
+    font-size: 10pt;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(white, blue, red, green)
+}
